@@ -1,0 +1,1 @@
+Programa Simples criado em Java para resolver o problema proposto pela empresa onde precisamos criar uma Classe Pessoa e uma classe Funcionario que herda algumas propriedades de pessoa. o Exercicio foi Desenvolvido usando apenas Java, alguns imports e Logica de Programação
